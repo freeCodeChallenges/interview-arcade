@@ -1,0 +1,48 @@
+[submodule "00-free-code-challenges"]
+	path = 00-free-code-challenges
+	url = https://github.com/freeCodeChallenges/00-free-code-challenges.git
+[submodule "01-responsive-web-design"]
+	path = 01-responsive-web-design
+	url = https://github.com/freeCodeChallenges/01-responsive-web-design.git
+[submodule "02-javascript-algorithms-and-data-structures"]
+	path = 02-javascript-algorithms-and-data-structures
+	url = https://github.com/freeCodeChallenges/02-javascript-algorithms-and-data-structures.git
+[submodule "03-front-end-development-libraries"]
+	path = 03-front-end-development-libraries
+	url = https://github.com/freeCodeChallenges/03-front-end-development-libraries.git
+[submodule "04-data-visualization"]
+	path = 04-data-visualization
+	url = https://github.com/freeCodeChallenges/04-data-visualization.git
+[submodule "05-back-end-development-and-apis"]
+	path = 05-back-end-development-and-apis
+	url = https://github.com/freeCodeChallenges/05-back-end-development-and-apis.git
+[submodule "07-scientific-computing-with-python"]
+	path = 07-scientific-computing-with-python
+	url = https://github.com/freeCodeChallenges/07-scientific-computing-with-python.git
+[submodule "08-data-analysis-with-python"]
+	path = 08-data-analysis-with-python
+	url = https://github.com/freeCodeChallenges/08-data-analysis-with-python.git
+[submodule "09-information-security"]
+	path = 09-information-security
+	url = https://github.com/freeCodeChallenges/09-information-security.git
+[submodule "10-coding-interview-prep"]
+	path = 10-coding-interview-prep
+	url = https://github.com/freeCodeChallenges/10-coding-interview-prep.git
+[submodule "11-machine-learning-with-python"]
+	path = 11-machine-learning-with-python
+	url = https://github.com/freeCodeChallenges/11-machine-learning-with-python.git
+[submodule "13-relational-databases"]
+	path = 13-relational-databases
+	url = https://github.com/freeCodeChallenges/13-relational-databases.git
+[submodule "CtCI-6th-E-JS"]
+	path = CtCI-6th-E-JS
+	url = https://github.com/CareerHunter/CtCI-6th-E-JS.git
+[submodule "CtCI-6th-E-JS-ES2015"]
+	path = CtCI-6th-E-JS-ES2015
+	url = https://github.com/CareerHunter/CtCI-6th-E-JS-ES2015.git
+[submodule "CtCI-6th-E-Python"]
+	path = CtCI-6th-E-Python
+	url = https://github.com/CareerHunter/CtCI-6th-E-Python.git
+[submodule "CtCI-6th-E-cpp"]
+	path = CtCI-6th-E-cpp
+	url = https://github.com/CareerHunter/CtCI-6th-E-cpp.git
